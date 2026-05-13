@@ -1,0 +1,1 @@
+"""Prudentia Observatory test suite."""
